@@ -2,3 +2,4 @@
 *.d
 
 /sources
+.DS_Store
